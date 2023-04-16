@@ -96,8 +96,117 @@ for details on configuring this project to bundle and minify static web assets. 
 
 
 .videos-cp {
+    width: 1500px;
+    height: 1000px;
+    margin-top: 200px;
+    margin-left: -192px;
+}
+
+.Glass-piramid {
     width: 304px;
     height: 267px;
+    position: absolute;
+    margin-left: 314px;
+    margin-top: 277px;
+    display: flex;
+    justify-content: center;
+    background-color: lightgray;
+}
+
+.Bottle-flip {
+    width: 304px;
+    height: 267px;
+    position: absolute;
+    margin-left: 0;
+    margin-top: 277px;
+    display: flex;
+    justify-content: center;
+    background-color: lightgray;
+}
+
+.Bottle-art {
+    width: 304px;
+    height: 267px;
+    position: absolute;
+    margin-left: 1256px;
+    margin-top: 0;
+    display: flex;
+    justify-content: center;
+    background-color: lightgray;
+}
+
+.flower-blooming {
+    width: 304px;
+    height: 267px;
+    position: absolute;
+    margin-left: 942px;
+    margin-top: 0;
+    display: flex;
+    justify-content: center;
+    background-color: lightgray;
+}
+
+.Domino-building {
+    width: 304px;
+    height: 267px;
+    position: absolute;
+    margin-left: 628px;
+    margin-top: 0;
+    display: flex;
+    justify-content: center;
+    background-color: lightgray;
+}
+
+.Domino {
+    width: 304px;
+    height: 267px;
+    position: absolute;
+    margin-left: 314px;
+    margin-top: 0;
+    display: flex;
+    justify-content: center;
+    background-color: lightgray;
+}
+
+.Bottle-art-p2 {
+    width: 304px;
+    height: 267px;
+    position: absolute;
+    margin-left: 0;
+    margin-top: 0;
+    display: flex;
+    justify-content: center;
+    background-color: lightgray;
+}
+
+.projector-making {
+    width: 304px;
+    height: 267px;
+    position: absolute;
+    margin-left: 628px;
+    margin-top: 0;
+    display: flex;
+    justify-content: center;
+    background-color: lightgray;
+}
+
+.gluegun {
+    width: 304px;
+    height: 267px;
+    position: absolute;
+    margin-left: 314px;
+    margin-top: 0;
+    display: flex;
+    justify-content: center;
+    background-color: lightgray;
+}
+
+.battery {
+    width: 304px;
+    height: 267px;
+    position: absolute;
+    margin-left: 0;
+    margin-top: 0;
     display: flex;
     justify-content: center;
     background-color: lightgray;
